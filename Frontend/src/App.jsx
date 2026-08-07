@@ -14,7 +14,7 @@ function App() {
  <div>
   <VerticleNavbar />
   <HorizontalNavbar className="ml-[14%]"/>
-  <main className='lg:ml-[15%]'> 
+  <main className='lg:ml-[15%] mt-12'> 
 
   
  <Routes>
